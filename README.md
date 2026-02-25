@@ -21,7 +21,7 @@ perceived relationships among individuals in a social network. The
 package includes tools for calculating motif frequencies, comparing
 observed motifs to expected distributions, and visualizing motif
 structures. It implements the methods described in Tanaka and Vega Yon
-(2023) <DOI:10.1016/j.socnet.2023.11.005>.
+(2024) <DOI:10.1016/j.socnet.2023.11.005>.
 
 When using this package, please cite the above article:
 
